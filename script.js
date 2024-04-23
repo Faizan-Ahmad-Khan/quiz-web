@@ -21,5 +21,5 @@ document
     sessionStorage.setItem("section", section);
 
     // Redirect to the quiz page
-    window.location.href = "/quiz-app-main/index.html"; // Assuming the quiz page is named "quiz.html"
+    window.location.href = "/quiz-app-main/index.html";
   });
