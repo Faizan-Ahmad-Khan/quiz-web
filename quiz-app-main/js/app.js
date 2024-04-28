@@ -39,7 +39,7 @@ document.getElementById("submit").addEventListener("click", () => {
   sessionStorage.setItem("quizResult", `${count}/${result.length}`);
 
   // Redirect to result page
-  window.location.href = "./result/index.html";
+  window.location.href = "../../result/index.html";
 });
 
 function validateQuestions(questions) {
