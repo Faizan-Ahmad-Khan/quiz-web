@@ -8,8 +8,7 @@
 }
 
 body {
-  /* background-image: url("https://img.freepik.com/free-photo/written-task_1098-13625.jpg?t=st=1654278720~exp=1654279320~hmac=6d50861fcb3b37807b47e3021ae8c0fe96b40fbd6e3db7f14288012a463b65e9&w=1060"); */
-  background-image: url(/assets/img/nguyen-dang-hoang-nhu-qDgTQOYk6B8-unsplash.jpg);
+  background-image: url(../images/nguyen-dang-hoang-nhu-qDgTQOYk6B8-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
